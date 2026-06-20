@@ -16,6 +16,13 @@
 
 </p>
 
+</p>
+<div align ="center">
+
+ ![snake gif](https://github.com/Yktv-prajwal/Yktv-prajwal/blob/output/github-snake-dark.svg)
+</div>
+
+
 ---
 
 # ⚡ About Me
@@ -123,10 +130,5 @@ I am an **AI & Machine Learning Student** passionate about learning and building
 
 <p align="center">
 ⭐ From <b>Prajwal Kumbhar</b> | AI & Machine Learning Student
-</p>
-<div align ="center">
-
- ![snake gif](https://github.com/Yktv-prajwal/Yktv-prajwal/blob/output/github-snake-dark.svg)
-</div>
 
 
