@@ -88,18 +88,6 @@ I am an **AI & Machine Learning Student** passionate about learning and building
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yktv-prajwal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yktv-prajwal&theme=tokyonight" />
-</p>
-
----
-
 # 🎓 Currently Learning
 
 - Data Science
