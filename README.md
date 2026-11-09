@@ -117,6 +117,6 @@ I am an **AI & Machine Learning Student** passionate about learning and building
 </p>
 
 <p align="center">
-⭐ From <b>Prajwal Kumbhar</b> | AI & Machine Learning Student
+From <b>Prajwal Kumbhar</b> | AI & Machine Learning Student
 
 
